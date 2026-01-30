@@ -5,30 +5,17 @@
       <h1>{{ name }}</h1>
       <h3>{{ title }}</h3>
       <p>
-        <a href="https://keysoftlab.nju.edu.cn/" target="_blank">
-          State Key Laboratory for Novel Software Technology
-        </a><br />
-        <a href="https://is.nju.edu.cn/main.htm" target="_blank">
-          School of Intelligence Science and Technology
-        </a><br />
-        <a href="https://cs.nju.edu.cn/rl/index_eng.htm" target="_blank">
-          Reasoning and Learning Research Group
+        <a href="https://ise.nju.edu.cn/en/index.htm" target="_blank">
+          School of Intelligent Software and Engineering
         </a><br />
         <a href="http://www.nju.edu.cn/" target="_blank">
           Nanjing University, Suzhou Campus, China
         </a><br /><br />
         Email:
-        <a href="mailto:liwenbin@nju.edu.cn">liwenbin@nju.edu.cn</a>;
-        <a href="mailto:liwenbin.nju@gmail.com">liwenbin.nju@gmail.com</a>
+        <a href="mailto:liwenbin@nju.edu.cn">tyzhou@smail.nju.edu.cn</a>
         <br /><br />
         <span class="social-links">
-          <a class="social-link"
-             href="https://scholar.google.com/citations?user=K-kC4yYAAAAJ&hl=zh-CN&authuser=1"
-             target="_blank">Google Scholar</a>
-          |
-          <a class="social-link" href="https://github.com/WenbinLee" target="_blank">GitHub</a>
-          |
-          <a class="social-link" href="https://github.com/RL-VIG" target="_blank">GitHub-VIG</a>
+          <a class="social-link" href="https://github.com/Aquila-zhou1" target="_blank">GitHub</a>
         </span>
       </p>
     </div>

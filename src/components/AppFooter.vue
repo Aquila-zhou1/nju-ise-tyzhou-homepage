@@ -2,7 +2,7 @@
 <template>
   <footer class="footer">
     <div class="footer-content">
-      <p>&copy; 2025 Wenbin Li | <em>Last update: Oct. 2025</em></p>
+      <p>&copy; 2025 Tianyuan Zhou | <em>Last update: Feb. 2026</em></p>
     </div>
   </footer>
 </template>
