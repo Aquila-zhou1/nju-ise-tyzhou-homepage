@@ -5,9 +5,9 @@
 
     <main class="main-container">
       <ProfileHeader
-        name="Tianyuan Zhou"
+        name="Martin Zhou"
         title="Undergraduate Student"
-        photo-src="/figs/lwb.jpg"
+        photo-src="/assets/figs/zty.jpg"
       />
 
       <!-- Summary / Biography -->
@@ -463,7 +463,7 @@ import ProfileHeader from "@/components/ProfileHeader.vue";
 import Section from "@/components/Section.vue";
 import AppFooter from "@/components/AppFooter.vue";
 
-const logoText = "Tianyuan Zhou";
+const logoText = "Martin Tianyuan Zhou";
 
 const navLinks = [
   { id: "summary", label: "Summary" },

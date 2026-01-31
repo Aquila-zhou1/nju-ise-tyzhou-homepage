@@ -21,7 +21,10 @@
     </div>
 
     <div class="profile-image">
-      <img :src="photoSrc" :alt="name" class="profile-photo" />
+      <img :src="photoSrc" 
+      :alt="name" 
+      @error="(e) => console.log('当前尝试加载的实际值是: ' + photoSrc)"
+      class="profile-photo" />
     </div>
   </section>
 </template>

@@ -12,9 +12,9 @@
         </a>
       </nav>
 
-      <button class="see-more-btn" @click="goDetail">
+      <!-- <button class="see-more-btn" @click="goDetail">
         &gt; see more detail
-      </button>
+      </button> -->
     </div>
   </header>
 </template>
