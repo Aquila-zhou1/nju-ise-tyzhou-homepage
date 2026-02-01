@@ -1,0 +1,20 @@
+// src/router/index.ts
+import { createRouter, createWebHistory } from 'vue-router';
+import Home from '@/views/Home.vue';
+import Detail from '@/views/Detail.vue';
+const routes = [
+    {
+        path: '/',
+        name: 'Home',
+        component: Home,
+    },
+    {
+        path: '/detail',
+        name: 'Detail',
+        component: Detail,
+    },
+];
+export const router = createRouter({
+    history: createWebHistory(),
+    routes,
+});
